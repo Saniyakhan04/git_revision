@@ -4,4 +4,4 @@ process the data
 create an avatar of an user
 
 change 1
-change 2
+change 2 in the database
