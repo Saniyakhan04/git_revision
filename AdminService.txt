@@ -11,4 +11,4 @@ manage the database
 closing the connection
 >>>>>>> feature2
 changes 1
-changes 2
+changes 2 in harsh's database
